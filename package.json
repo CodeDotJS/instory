@@ -12,7 +12,7 @@
     "node": ">=6"
   },
   "scripts": {
-    "test": "xo && ava"
+    "test": "ava"
   },
   "files": [
     "index.js"
@@ -32,8 +32,7 @@
     "got": "^6.3.0"
   },
   "devDependencies": {
-    "ava": "^0.15.0",
-    "xo": "^0.16.0"
+    "ava": "^0.15.0"
   },
   "xo": {
     "esnext": true
