@@ -57,6 +57,9 @@ instory('9gag', 'image').then(res => {
 ```
 
 ## API
+```js
+instory(username);
+```
 
 ```js
 instory(username, exclude)
